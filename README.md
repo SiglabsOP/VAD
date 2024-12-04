@@ -66,3 +66,6 @@ You can use it free of charge or build upon my code.
 Software Distribution Notice: https://peterdeceuster.uk/doc/code-terms 
 This software is released under the FPA General Code License.
  
+![Screenshot 2024-12-04 200417](https://github.com/user-attachments/assets/b48fffe6-ec33-4c06-b407-5b82baf70874)
+![Screenshot 2024-12-04 200431](https://github.com/user-attachments/assets/7a2f6bf9-95db-4248-ba76-7510b5749307)
+![Screenshot 2024-12-04 200437](https://github.com/user-attachments/assets/0f498c28-d911-4093-8a7f-3d190fd8b0fa)
